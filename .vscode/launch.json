@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\Dynamic Programming\\LIS.js"
+            "program": "${workspaceFolder}\\Dynamic Programming\\BoxStacking.js"
         }
     ]
 }
